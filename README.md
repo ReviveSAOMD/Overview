@@ -44,3 +44,6 @@ note: for more info on jobs please ask in discord
  6) classified
 
 note: resources can update at any givin time the stuff noted as classified will be discused in higher ranks
+
+> reach out
+ 1) discord: https://discord.gg/HdKZdX6SQt 
