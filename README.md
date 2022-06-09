@@ -8,6 +8,7 @@ note: this is free work, we will not use saomd for anyone to get paid. This is a
  4) tutorial maker
  5) research
  6) intel
+
 note: tasks may change at any time
  
 > jobs
@@ -31,6 +32,7 @@ note: tasks may change at any time
  18) intelligents logs
  19) intelligents gather current events
  20) intelligents look for other saomd revive groups on the web
+
 note: for more info on jobs please ask in discord
 
 > resources
@@ -40,4 +42,5 @@ note: for more info on jobs please ask in discord
  4) classified
  5) classified
  6) classified
+
 note: resources can update at any givin time the stuff noted as classified will be discused in higher ranks
